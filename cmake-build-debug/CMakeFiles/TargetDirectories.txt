@@ -1,0 +1,3 @@
+D:/UNIK2/OS/LAB5.1/cmake-build-debug/CMakeFiles/LAB5_1.dir
+D:/UNIK2/OS/LAB5.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UNIK2/OS/LAB5.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
